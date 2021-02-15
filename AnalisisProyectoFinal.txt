@@ -2,17 +2,17 @@ ANALISIS DEL PROYECTO FINAL
 -	El problema por el cual se solicita esta herramienta se debe a que actualmente es que se pierde mucho tiempo actualmente llenando las cotizaciones a mano y al ser una actividad muy demandante de promedio 50 cotizaciones al día por lo cual necesitan una herramienta que les ayude automatizar este proceso y así poder obtener más clientes de los cuales se puedan estar perdiendo por el tema de la lentitud. 
 
 -	La cotización cuenta con un precio base y este precio base puede ir cambiando según las siguientes condiciones: 
-o	Edad de Cliente:
-	Si el cliente tiene de 18 a 24 años, se le hará un recargo del 10% sobre el precio base.
-	Si el cliente tiene de 25 a 49 años, se le hará un recargo del 20% sobre el precio base.
-	Si el cliente es mayor a 50 años, se le hará un cargo del 30% sobre el precio base.
-o	Si el Cliente esta Casado se tomara en cuenta la edad del cónyuge para realizar los siguientes cargos:
-	Si el conyugue tiene de 18 a 24 años, se le hará un recargo del 10% sobre el precio base.
-	Si el conyugue tiene de 25 a 49 años, se le hará un recargo del 20% sobre el precio base.
-	Si el conyugue es mayor a 50 años, se le hará un cargo del 30% sobre el precio base.
-o	Si el cliente tiene hijos se tomará en cuenta la cantidad de hijos para realizar los siguientes cargos:
-	Se hará un cargo del 20% por caga hijo que tenga el cliente.
-o	Si el Cliente trabaja se tomará en cuenta su salario base para hacer el siguiente cargo:
-	Se hará un cargo del 5% sobre su salario base y ese monto se sumará al precio base de la cotización.
-o	Si el Cliente cuenta con propiedades se hará el cargo según la cantidad y el costo de esas propiedades:
-	Se sumará el monto del costo evaluado de las propiedades y se le calculará un 35% y el monto se sumará al precio base de la cotización.
+    o	Edad de Cliente:
+        	Si el cliente tiene de 18 a 24 años, se le hará un recargo del 10% sobre el precio base.
+        	Si el cliente tiene de 25 a 49 años, se le hará un recargo del 20% sobre el precio base.
+        	Si el cliente es mayor a 50 años, se le hará un cargo del 30% sobre el precio base.
+    o	Si el Cliente esta Casado se tomara en cuenta la edad del cónyuge para realizar los siguien tes cargos:
+        	Si el conyugue tiene de 18 a 24 años, se le hará un recargo del 10% sobre el precio base.
+        	Si el conyugue tiene de 25 a 49 años, se le hará un recargo del 20% sobre el precio base.
+        	Si el conyugue es mayor a 50 años, se le hará un cargo del 30% sobre el precio base.
+    o	Si el cliente tiene hijos se tomará en cuenta la cantidad de hijos para realizar los siguientes cargos:
+        	Se hará un cargo del 20% por caga hijo que tenga el cliente.
+    o	Si el Cliente trabaja se tomará en cuenta su salario base para hacer el siguiente cargo:
+        	Se hará un cargo del 5% sobre su salario base y ese monto se sumará al precio base de la cotización.
+    o	Si el Cliente cuenta con propiedades se hará el cargo según la cantidad y el costo de esas propiedades:
+        	Se sumará el monto del costo evaluado de las propiedades y se le calculará un 35% y el monto se sumará al precio base de la cotización.

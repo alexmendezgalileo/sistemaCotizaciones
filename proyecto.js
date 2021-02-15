@@ -53,7 +53,7 @@ while("SI" == iniciar.toUpperCase()){
   }
 
   var hijos = prompt("¿Tiene hijos o hijas?", 'SI/NO')
-  //onsole.log(hijos)
+  //console.log(hijos)
   //Comprobamos la cantidad de hijos solamente si los tienen
   var cantidad_hijos
   if("SI" == hijos.toUpperCase()){
@@ -130,6 +130,9 @@ while("SI" == iniciar.toUpperCase()){
     recargo = salario_recargo*salario
     recargo_total = recargo_total + recargo
   }
+   /**
+   * Extras. Recargo por la cantidad de propiedades 
+   */
   //console.log(recargo_total)
   if ("SI"== propiedad.toUpperCase()) {
     recargo = propiedad_recargo*cotizacion_pro
