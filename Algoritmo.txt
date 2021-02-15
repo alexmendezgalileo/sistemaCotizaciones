@@ -1,0 +1,14 @@
+ALGORITMO DE PROYECTO FINAL
+1.	Al ingresar a la página le preguntara en pantalla cual es el nombre del cliente al cual se le hará la cotización.
+2.	Luego le pedirá que ingrese la edad del cliente.
+3.	Si el cliente tiene 18 años o más la aplicación continuara con el proceso o si el cliente es menor de 18 se le mostrara una ventana en la cual se le indicara No se puede ofrecer un seguro porque es menor de edad y la aplicación dejara de ejecutarse.
+4.	De tener 18 años o más, se procederá a preguntar si está casado. 
+5.	Si está casado se le pedirá que ingrese la edad del conyugue. Si no está casado omitirá este paso.
+6.	Se le preguntara si el cliente tiene hijos.
+7.	Si tiene hijos se le preguntara cuantos hijos tiene. Si no tiene hijos omitirá este paso.
+8.	Se le preguntara si el cliente labora.
+9.	Si el cliente trabaja se le solicitara su salario base. Si no tiene un trabajo se omitirá este paso.
+10.	Se le preguntara si el cliente cuenta con propiedades.
+11.	Si el cliente dice que si se le pedirá el costo total de sus propiedades. Si no tiene propiedades se omitirá este paso.
+12.	Se le preguntara si desea incluir otra cotización para este cliente o si desea SALIR.
+13.	Si la respuesta es SI, se procederá a solicitarle de nuevo la información correspondiente para agregar otra cotización. Si la respuesta es SALIR, saldrá del proceso y comenzará a presentar los cálculos totales de la cotización.
