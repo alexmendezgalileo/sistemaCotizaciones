@@ -104,13 +104,13 @@ while("SI" == iniciar.toUpperCase()){
    */
   if("SI" == casado.toUpperCase()){
     if(edad_conyuge_numero >= 18 && edad_conyuge_numero<25){
-      recargo = precio_base * edad_18
+      recargo = precio_base * casado_18
       recargo_total = recargo_total + recargo
     }else if(edad_conyuge_numero >= 25 && edad_conyuge_numero<50){    
-      recargo = precio_base * edad_25
+      recargo = precio_base * casado_25
       recargo_total = recargo_total + recargo
     }else if(edad_conyuge_numero >= 50){    
-    recargo = precio_base * edad_50
+    recargo = precio_base * casado_50
     recargo_total = recargo_total + recargo
     }
   }
